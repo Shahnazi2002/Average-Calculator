@@ -15,4 +15,4 @@ while repeat:
 print("Your list is as follows:", list)
 print("Length of list =", len(list))
 average = sum(list)/len(list)
-print("Answer =", average)
+print("Average =", average)
